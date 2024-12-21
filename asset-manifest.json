@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/LearnerApp/static/css/main.de05fca7.css",
+    "main.js": "/LearnerApp/static/js/main.209d7603.js",
+    "index.html": "/LearnerApp/index.html",
+    "main.de05fca7.css.map": "/LearnerApp/static/css/main.de05fca7.css.map",
+    "main.209d7603.js.map": "/LearnerApp/static/js/main.209d7603.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.de05fca7.css",
+    "static/js/main.209d7603.js"
+  ]
+}
